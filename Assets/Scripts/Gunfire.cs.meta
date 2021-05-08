@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: d3e9211aa0a082a4bbcb6ded9506f0d3
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - bullet: {fileID: 2459884962807680877, guid: 545ed58e12b1dfc43b835d54efb06b80, type: 3}
+  - dest: {instanceID: 0}
+  - fpsCam: {instanceID: 0}
+  - muzzleFlash: {instanceID: 0}
+  - impactEffect: {fileID: 7097147000070083022, guid: 943b7fcf2cb3abb46b7d15a96456aacf, type: 3}
+  - animator: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
